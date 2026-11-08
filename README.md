@@ -52,7 +52,7 @@ I'm interested in turning data and AI research into practical applications — f
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postgres,jupyter,docker" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postgres,jupyter" alt="Tools"/>
 </p>
 
 ### Currently Exploring
