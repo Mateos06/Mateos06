@@ -124,11 +124,18 @@ I'm interested in turning data and AI research into practical applications — f
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mateossharka9-droid&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateossharka9-droid&layout=compact&hide_border=true" alt="Most used languages"/>
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=mateossharka9-droid&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
 
-  <br/>
-
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mateossharka9-droid&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Most Used Languages"
+  />
+  
   <img src="https://streak-stats.demolab.com?user=mateossharka9-droid&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
