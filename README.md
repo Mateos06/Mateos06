@@ -142,8 +142,15 @@ I'm open to connecting with people working in **Artificial Intelligence, Machine
 - 💼 LinkedIn: [Mateos Sharka](https://www.linkedin.com/in/mateos-sharka-31143a336/)
 - 🐙 GitHub: [@mateossharka9-droid](https://github.com/mateossharka9-droid)
 
+## 🧠 AI & Critical Thinking
+
 <div align="center">
 
-### *Turning data into insights. Turning ideas into intelligent solutions.* 🚀
+  <blockquote>
+    <h3>“A model can find patterns. Critical thinking asks whether those patterns mean anything.”</h3>
+    <p><em>Build models with curiosity. Evaluate them with skepticism.</em></p>
+  </blockquote>
 
 </div>
+
+---
