@@ -126,11 +126,11 @@ I'm interested in turning data and AI research into practical applications — f
 
   <img
     height="165"
-    src="https://github-stats-extended.vercel.app/api?username=mateossharka9-droid&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=Mateos06&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
     alt="GitHub Statistics"
   />
   
-  <img src="https://streak-stats.demolab.com?user=mateossharka9-droid&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Mateos06&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -141,7 +141,7 @@ I'm interested in turning data and AI research into practical applications — f
 I'm open to connecting with people working in **Artificial Intelligence, Machine Learning, Data Science, and technology innovation**.
 
 - 💼 LinkedIn: [Mateos Sharka](https://www.linkedin.com/in/mateos-sharka-31143a336/)
-- 🐙 GitHub: [@mateossharka9-droid](https://github.com/mateossharka9-droid)
+- 🐙 GitHub: [@mateossharka9-droid](https://github.com/Mateos06)
 
 ## 🧠 AI & Critical Thinking
 
