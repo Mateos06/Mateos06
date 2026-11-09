@@ -129,12 +129,6 @@ I'm interested in turning data and AI research into practical applications — f
     src="https://github-stats-extended.vercel.app/api?username=mateossharka9-droid&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
     alt="GitHub Statistics"
   />
-
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mateossharka9-droid&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Most Used Languages"
-  />
   
   <img src="https://streak-stats.demolab.com?user=mateossharka9-droid&hide_border=true" alt="GitHub contribution streak"/>
 
