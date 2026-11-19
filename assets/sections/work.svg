@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="85" viewBox="0 0 1200 85" role="img">
+<defs>
+  <linearGradient id="nebula" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101C36"/><stop offset=".55" stop-color="#070D1D"/><stop offset="1" stop-color="#100F2B"/></linearGradient>
+  <linearGradient id="energy" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52E5F9"/><stop offset=".52" stop-color="#67E9C7"/><stop offset="1" stop-color="#A18CFF"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#293E72" stop-opacity=".62"/><stop offset=".65" stop-color="#181E4B" stop-opacity=".2"/><stop offset="1" stop-color="#07101E" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#668ABF" stroke-width=".65" opacity=".13" fill="none"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs><style>
+  .text { font-family:'Segoe UI',Inter,Arial,sans-serif; } .mono { font-family:'JetBrains Mono',Consolas,monospace; }
+  .shimmer { animation: shimmer 6s ease-in-out infinite; }
+  .blink { animation: blink 1.45s steps(2,end) infinite; }
+  .pulse { transform-box:fill-box; transform-origin:center; animation:pulse 3.2s ease-in-out infinite; }
+  .drift { animation:drift 7s ease-in-out infinite; }
+  .dash { stroke-dasharray:6 11; animation:dash 14s linear infinite; }
+  @keyframes shimmer { 0%,100% {opacity:.45} 50% {opacity:1} }
+  @keyframes blink { 0%,48% {opacity:1} 49%,100% {opacity:.1} }
+  @keyframes pulse { 0%,100% {opacity:.55;transform:scale(.92)} 50% {opacity:1;transform:scale(1.16)} }
+  @keyframes drift { 0%,100% {transform:translateY(0)} 50% {transform:translateY(-8px)} }
+  @keyframes dash { from {stroke-dashoffset:0} to {stroke-dashoffset:-170} }
+  @media (prefers-reduced-motion:reduce) { .shimmer,.blink,.pulse,.drift,.dash {animation:none} }
+</style><rect width="1200" height="85" rx="14" fill="url(#nebula)"/><rect x="1" y="1" width="1198" height="83" rx="14" fill="none" stroke="#253757" stroke-width="2"/><rect x="19" y="17" width="52" height="52" rx="11" fill="#153349" stroke="#35657C" opacity="1" /><text x="27" y="51" fill="#52E5F9" font-family="'JetBrains Mono',Consolas,monospace" font-size="23" font-weight="700" >03</text><text x="93" y="52" fill="#EDF6FF" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="2">FEATURED BUILDS</text><path d="M710 43L1159 43" stroke="#2B4B67" stroke-width="2" opacity="1" fill="none" /><circle cx="1092" cy="43" r="2" fill="#52E5F9" stroke="none" stroke-width="1" opacity="0.8" /><circle cx="1101" cy="43" r="2" fill="#A18CFF" stroke="none" stroke-width="1" opacity="0.8" /><circle cx="1110" cy="43" r="2" fill="#A18CFF" stroke="none" stroke-width="1" opacity="0.8" /><circle cx="1119" cy="43" r="2" fill="#52E5F9" stroke="none" stroke-width="1" opacity="0.8" /><circle cx="1128" cy="43" r="2" fill="#A18CFF" stroke="none" stroke-width="1" opacity="0.8" /><circle cx="1137" cy="43" r="2" fill="#A18CFF" stroke="none" stroke-width="1" opacity="0.8" /><circle cx="1146" cy="43" r="2" fill="#52E5F9" stroke="none" stroke-width="1" opacity="0.8" /><circle cx="1155" cy="43" r="2" fill="#A18CFF" stroke="none" stroke-width="1" opacity="0.8" /></svg>
